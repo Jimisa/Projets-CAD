@@ -20,6 +20,7 @@ This hexagonal mesh holds a foam to prevent dust to enter the 3D printer box.
 
 > OUTPUTS :
 > The piece is on place and hold on place, due to very few vibrations in this area.
+> 
 > The female part is too weak and should be strengthened with more robust snap-in on the male part.
 
 ### Filament guide
@@ -61,15 +62,18 @@ To hold my front light on the elliptical fork, I designed this removable holder.
 
 > OUTPUTS:
 > The clearance must be ajusted to let the cylindrical support hold tight on the collar, with a small snap-in.
+> 
 > 2 rubber band are required but the inlay offset should not be symetrical, otherwise it is impossible to close ethe collar without breaking the hinge.
+> 
 > Once the screw is set in place, it is quite difficult to remove it. It is ok if the holder remains in place continously. Otherwise a horizontal setup with 2 shirter screws would ease the unmounting.
+> 
 > The hinge, with a radius identical as the collar thickness, is clearly not stiff enough. I should add 50% more in size.
 
 ## For home
 
 ### Articulated arm for toddler bed
 
-It is an assembly of several identical pieces with notches (alternate female and male) to suspend anything a baby would find interesting to look at. Pieces are hold together with M6 30mm screws.
+It is an assembly of several identical pieces with notches (alternate female and male) to hang anything a baby would find interesting to look at. Pieces are hold together with M6 30mm screws.
 
 ![gantry](For%20Home/arms_gantry.jpg)
 
